@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Artificial Neural Network**
 
-- 💬 Ask me about **Data Science ,CP**
+- 💬 Ask me about **Data Science ,CP, Web, Blockchain**
 
 - 📫 How to reach me **b522009@iiit-bh.ac.in**
 
