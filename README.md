@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/ashu_1729" target="blank"><img src="https://img.shields.io/twitter/follow/ashu_1729?logo=twitter&style=for-the-badge" alt="ashu_1729" /></a> </p>
 
-- 🌱 I’m currently learning **Artificial Neural Network**
+- 🌱 I’m currently learning **Scalable and Maintainable Backend System**
 
-- 💬 Ask me about **Data Science ,CP, Web, Blockchain**
+- 💬 Ask me about **Full Stack ,CP, Blockchain**
 
 - 📫 How to reach me **b522009@iiit-bh.ac.in**
 
